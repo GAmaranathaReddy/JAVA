@@ -6,7 +6,7 @@ import java.util.Map.Entry;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-public class StringPractice {
+public class Anagramm {
 public static void main(String[] args) {
 	String s1="anagramm";
 	String s2="marganaa";
